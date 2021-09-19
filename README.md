@@ -1,5 +1,6 @@
 # challenge-1
 
-Simple challenge just cleaning up the page, mostly deleting unnecessary css by grouping things together in classes.
-Getting rid of div vomit by adding sections, giving images alt elements.
-Adding a few notes for easier navigation for future people working on it.
+Quick challenge, mostly deleting unnecessary css by grouping things together in classes, 
+organizing the css and adding notes for easier navigation.
+Getting rid of div vomit by adding sections, adding accessibility by adding alt elements on images.
+Made sure all links are directing you to the correct place, and a general last code cleanup.
