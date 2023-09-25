@@ -1,4 +1,4 @@
-# Challenge-1
+# Horiseon-Challenge-1
 
 Quick challenge, mostly deleting unnecessary css by grouping things together in classes, 
 organizing the css and adding notes for easier navigation.
